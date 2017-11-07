@@ -1,0 +1,36 @@
+* {
+    margin:0px;
+    padding:0px;
+    font-family:arial;
+}
+
+.wrapper {
+    width: 960px;
+    height: 100px;
+}
+
+.logo img{
+    width: 50px;
+    height: auto;
+}
+
+.logo{
+    width: 100%;
+}
+
+.wrapper h2 {
+    background-color: #4076a5;
+    color:white;
+    padding: 15px;
+    margin-top:-15px;
+}
+
+.logo h1{
+    display:inline-block;
+    margin-bottom:15px;
+    vertical-align:bottom;
+}
+
+.logo span{
+    color: #28659d;
+}
