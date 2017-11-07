@@ -34,3 +34,171 @@
 .logo span{
     color: #28659d;
 }
+
+.main{
+    background: -webkit-linear-gradient(to top, #ffffff, #f5f5f5);
+    background: -moz-linear-gradient(to top, #ffffff, #f5f5f5);
+    background: -o-linear-gradient(to top, #ffffff, #f5f5f5);
+    background: linear-gradient(to top, #ffffff, #f5f5f5);
+}
+
+.side-bar{
+    width:250px;
+    display:inline-block;
+    vertical-align:top;
+    padding: 5px;
+}
+
+.side-bar p{
+    padding: 10px;
+    font-weight:bold;
+}
+
+.side-bar .red{
+    color:red;
+}
+
+.side-bar span{
+    color: #28659d;
+}
+
+.side-bar button{
+    margin-bottom:10px;
+    font-size:20px;
+    padding:10px;
+    color:white;
+    border-radius:5px;
+    box-shadow: 2px 2px 2px black;
+    display:inline-block;
+    width: 95%;
+    font-weight:900;
+}
+
+.side-bar .bluebtn {
+    background-color: #3a74a8;
+}
+
+.side-bar .orangebtn{
+    background-color:#ec8c19;
+}
+
+.side-bar .reinvent {
+    background-image: url('./images/ad_background.png');
+    height:300px;
+    width: auto;
+    padding-top:20px;
+}
+
+.side-bar .reinvent h3{
+    text-align:center;
+    color:white;
+    font-size:20px;
+}
+
+.side-bar .reinvent img{
+    width:100px;
+    margin: 0 auto;
+    display:block;
+
+}
+
+.side-bar .reinvent button{
+    background-color:#3bc7de;
+    display:block;
+    padding:5px;
+    width:87%;
+    margin: 0 auto;
+    font-size:16px;
+   
+}
+
+.main-content {
+    width:695px;
+    display:inline-block;
+
+}
+
+.main-header {
+    border-bottom: 1px solid grey;
+    padding-bottom:5px;
+}
+
+.main-header img{
+    width:20px;
+
+}
+
+.main-header h3 {
+    display:inline-block;
+}
+
+.main-header .phone {
+    width:45px;
+    vertical-align:top;
+    margin-left:45%;
+    margin-top:10px;
+}
+
+.main-header .contact {
+    display:inline-block;
+    vertical-align:top;
+}
+.contact h3 {
+	color:#14c1de;
+	font-size: 36px
+}
+.contact p {
+	font-size: 10px;
+    color: #6d6d6d;
+}    
+
+.main_info {
+    padding-top:10px;
+}
+
+.main_info h3	{
+	color:#28659d;
+}
+.main_info h4 {
+    font-weight: normal;
+}
+
+.main_info h4 span{
+font-weight:900;
+}
+
+.main_info ul {
+    margin-left:50px;
+}
+
+.main_info a {
+	color: #2ba7ba;
+	text-decoration: none;
+}
+
+.main_info img {
+    display:block;
+    margin: 0 auto;
+    width:200px;
+}
+
+.main_info ol{
+    margin-left:50px;
+}
+
+.html_css_js {
+    margin-top:20px;
+    border-top: 5px #0084df solid;
+    border-left:5px #0084df solid;
+    border-right:5px #0084df solid;
+}
+
+.html_css_js img{
+    width:100px;
+    display:inline-block;
+}
+
+.html_css_js div {
+    display:inline-block;
+    width:580px;
+}
